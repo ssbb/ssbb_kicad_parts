@@ -1,4 +1,4 @@
-(footprint "EC_Pad_L84"
+(footprint "EC_Pad_L84_18x16"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "EC_Pad_L84"
+	(property "Value" "EC_Pad_L84_18x16"
 		(at 0 0.9 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -53,7 +53,7 @@
 			)
 		)
 	)
-	(attr smd)
+	(attr smd exclude_from_pos_files exclude_from_bom)
 	(fp_rect
 		(start -9 -8)
 		(end 9 8)

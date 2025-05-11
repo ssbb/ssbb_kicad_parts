@@ -54,50 +54,6 @@
 		)
 	)
 	(attr through_hole)
-	(fp_circle
-		(center -27.5 -11.75)
-		(end -27.44 -11.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(fill no)
-		(layer "Dwgs.User")
-		(uuid "0b41ae19-8d28-4043-aac9-cecbe8717914")
-	)
-	(fp_circle
-		(center -27.5 -11.75)
-		(end -27.44 -11.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(fill no)
-		(layer "Dwgs.User")
-		(uuid "d603b815-f5ed-4ce1-bf26-4f8bdd425a4f")
-	)
-	(fp_circle
-		(center -24.5 -11.75)
-		(end -24.44 -11.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(fill no)
-		(layer "Dwgs.User")
-		(uuid "72152439-6dce-4d3a-8747-48395f0e2dd7")
-	)
-	(fp_circle
-		(center -24.5 -11.75)
-		(end -24.44 -11.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(fill no)
-		(layer "Dwgs.User")
-		(uuid "b41333c9-36a8-4c18-95f3-82ad4b14186f")
-	)
 	(fp_line
 		(start -26.000002 -1.500014)
 		(end -26 -11.75)

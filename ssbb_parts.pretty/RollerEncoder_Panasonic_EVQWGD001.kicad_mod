@@ -1,7 +1,7 @@
 (footprint "RollerEncoder_Panasonic_EVQWGD001"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 0 0)
@@ -21,18 +21,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "0b682bd0-65c8-4979-8884-a91560959aba")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -302,6 +290,7 @@
 		(remove_unused_layers no)
 		(uuid "12608572-dfa9-4752-9ece-38c0f05afcb7")
 	)
+	(embedded_fonts no)
 	(model "${KICAD_USER_LIB}/3D_models/PanasonicEncoder.STEP"
 		(offset
 			(xyz 8.3 -7 0)
